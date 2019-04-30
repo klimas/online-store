@@ -1,0 +1,10 @@
+{
+    "storeApp": {
+        "PaymentMethod": {
+            "null": "",
+            "CREDIT_CARD": "CREDIT_CARD",
+            "COD": "COD",
+            "PAYPAL": "PAYPAL"
+        }
+    }
+}
